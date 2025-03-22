@@ -5,7 +5,7 @@ This is my personal **Organization** where I keep all my projects well-organized
 I primarily work with:
 
 - **Frontend:** Vue.js, Tailwind CSS, JavaScript, TypeScript
-- **Backend:** NestJS, Express.js, C#, .NET, Drogon (C++)
+- **Backend:** NestJS, Express.js, C#, .NET
 - **Databases:** MySQL, PostgreSQL
 - **Other:** Git, Unit Testing (NUnit, Jest)
 
