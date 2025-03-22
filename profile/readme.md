@@ -4,12 +4,19 @@ This is my personal **Organization** where I keep all my projects well-organized
 You can use the [**Repo Navigator**](github.com/valid-hub/repo-navigator) to explore and navigate through the repositories in a more organized and efficient manner.
 
 ## 💻 Tech Stack
-I primarily work with:
+**Frontend**
+- 🌐 Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+- ⚡ Frameworks & Libraries: Vue.js, React, Tailwind CSS, Bootstrap, Vuetify
 
-- **Frontend:** Vue.js, Tailwind CSS, JavaScript, TypeScript
-- **Backend:** NestJS, Express.js, C#, .NET
-- **Databases:** MySQL, PostgreSQL
-- **Other:** Git, Unit Testing (NUnit, Jest)
+**Backend**
+- 🛠 Languages: JavaScript (Node.js), TypeScript, C#
+- 🔥 Frameworks & Tools: NestJS, Express.js, .NET Framework
+- 🗄 Databases: MySQL, PostgreSQL, MongoDB
+
+**Other Tools & Technologies**
+- 🎛 Version Control: Git, GitHub
+- 🐳 DevOps & Deployment: Docker, Portainer, Cloudflare
+- 🔍 Testing: NUnit, Jest
 
 ## 📂 What You'll Find Here
 - Full-stack applications 🏗️
