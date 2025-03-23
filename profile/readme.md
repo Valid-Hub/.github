@@ -1,7 +1,7 @@
 # Welcome to Valid Hub 👋
 This is my personal **Organization** where I keep all my projects well-organized. From **web applications** to **backend services**, you’ll find a collection of everything I’ve worked on, including **school-related** projects and **personal experiments**.
 
-You can use the [**Repo Navigator**](github.com/valid-hub/repo-navigator) to explore and navigate through the repositories in a more organized and efficient manner.
+You can use the [**Repo Navigator**](https://github.com/valid-hub/repo-navigator) to explore and navigate through the repositories in a more organized and efficient manner.
 
 ## 💻 Tech Stack
 **Frontend**
