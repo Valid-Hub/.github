@@ -9,7 +9,7 @@ You can use the [**Repo Navigator**](https://github.com/valid-hub/repo-navigator
 - ⚡ Frameworks & Libraries: Vue.js, React, Tailwind CSS, Bootstrap, Vuetify
 
 **Backend**
-- 🛠 Languages: JavaScript (Node.js), TypeScript, C#
+- 🛠 Languages: JavaScript, TypeScript, C#
 - 🔥 Frameworks & Tools: NestJS, Express.js, .NET Framework
 - 🗄 Databases: MySQL, PostgreSQL, MongoDB
 
